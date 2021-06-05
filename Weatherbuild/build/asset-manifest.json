@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.28ebc930.chunk.css",
+    "main.js": "/static/js/main.402f4c98.chunk.js",
+    "main.js.map": "/static/js/main.402f4c98.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.55d72615.js",
+    "runtime-main.js.map": "/static/js/runtime-main.55d72615.js.map",
+    "static/css/2.471163e4.chunk.css": "/static/css/2.471163e4.chunk.css",
+    "static/js/2.97c6dd04.chunk.js": "/static/js/2.97c6dd04.chunk.js",
+    "static/js/2.97c6dd04.chunk.js.map": "/static/js/2.97c6dd04.chunk.js.map",
+    "static/js/3.08b12f5a.chunk.js": "/static/js/3.08b12f5a.chunk.js",
+    "static/js/3.08b12f5a.chunk.js.map": "/static/js/3.08b12f5a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.471163e4.chunk.css.map": "/static/css/2.471163e4.chunk.css.map",
+    "static/css/main.28ebc930.chunk.css.map": "/static/css/main.28ebc930.chunk.css.map",
+    "static/js/2.97c6dd04.chunk.js.LICENSE.txt": "/static/js/2.97c6dd04.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Desert.41013bde.jpg",
+    "static/media/weather-icons.css": "/static/media/weathericons-regular-webfont.e218aee6.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55d72615.js",
+    "static/css/2.471163e4.chunk.css",
+    "static/js/2.97c6dd04.chunk.js",
+    "static/css/main.28ebc930.chunk.css",
+    "static/js/main.402f4c98.chunk.js"
+  ]
+}
